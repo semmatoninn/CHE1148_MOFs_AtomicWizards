@@ -4,7 +4,7 @@ Rija Ansari · Uyen (Emma) Hua · Miguel Freyermuth
 GNN Model on OPENDAC2025
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project develops machine learning models to predict **CO₂ adsorption energy** in metal–organic frameworks (MOFs) for **Direct Air Capture (DAC)** applications.
 
@@ -14,7 +14,7 @@ Our goal is to build predictive models that accelerate materials discovery throu
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Predict **DFT-corrected adsorption energy (eV)** of CO₂ in MOFs using structural and chemical information.
 
@@ -27,7 +27,7 @@ We aim to:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The full Open DAC 2025 dataset (Sriram et al., arXiv 2025).
 
@@ -55,7 +55,7 @@ To prevent data leakage, data splits are performed by **unique MOF structure**, 
 
 ---
 
-## 🧠 Modeling Approach
+##  Modeling Approach
 
 ### Graph Neural Network (Primary Model)
 
@@ -78,7 +78,7 @@ For comparison, we also implement:
 - XGBoost (using physical, chemical, and geometric descriptors)  
 
 
-## 🌱 Why This Matters
+##  Why This Matters
 
 Direct Air Capture is an essential climate mitigation technology. By building reliable ML ranking models, we:
 
@@ -89,7 +89,7 @@ Direct Air Capture is an essential climate mitigation technology. By building re
 
 ---
 
-## 📚 References
+##  References
 
 1. A. Wood, “What are Metal Organic Frameworks (MOFs)?,” Ossila, 2022.  
 2. J. Park et al., “How Reproducible Are Isotherm Measurements in Metal–Organic Frameworks?,” Chemistry of Materials, 2017.  
