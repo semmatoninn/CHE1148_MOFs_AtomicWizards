@@ -3,7 +3,7 @@
 Rija Ansari · Uyen (Emma) Hua · Miguel Freyermuth  
 GNN Model on OPENDAC2025
 ---
-
+View Final GNN and Baseline XGBoost to see model. E3GNN file contain previous results
 ## Project Overview
 
 This project develops machine learning models to predict **CO₂ adsorption energy** in metal–organic frameworks (MOFs) for **Direct Air Capture (DAC)** applications.
